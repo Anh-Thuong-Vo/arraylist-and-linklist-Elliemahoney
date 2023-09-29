@@ -1,3 +1,5 @@
+No work shown. You may turn in with a late pass. 
+
 # 9/11 Worksheet: ArrayLists and LinkedLists
 ## Initial due date: *09/18 @11:59pm*
 
